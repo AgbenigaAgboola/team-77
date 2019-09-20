@@ -57,13 +57,21 @@ navbar a:active {
     height: 100%;
     padding-top: 50px;
     background: #FFFFFf;
+<<<<<<< HEAD
+=======
+    margin-bottom: 5vmin;
+>>>>>>> pr/2
 }
 
 .login h2 {
     font-family: Rozha One;
     font-style: normal;
     font-weight: normal;
+<<<<<<< HEAD
     font-size: 48px;
+=======
+    font-size: 5vmin;
+>>>>>>> pr/2
     line-height: 68px;
     text-align: center;
     color: #000000;
@@ -87,12 +95,28 @@ input {
     border: 2px solid black;
     border-radius: 10px;
 }
+<<<<<<< HEAD
+=======
+input[type=submit]{
+    width: 19vmin;
+    height: 6vmin;
+    background: #FFFFFF;
+    font-weight: 600;
+    font-size: 2vmin;
+    text-align: center;
+    padding: 0;
+}
+>>>>>>> pr/2
 
 label {
     font-family: Rozha One;
     font-style: normal;
     font-weight: normal;
+<<<<<<< HEAD
     font-size: 24px;
+=======
+    font-size: 3vmin;
+>>>>>>> pr/2
     line-height: 34px;
     display: flex;
     align-items: center;
@@ -105,8 +129,13 @@ button {
     border-radius: 15px;
     padding: 10px;
     margin: 30px auto;
+<<<<<<< HEAD
     width: 228px;
     height: 67px;
+=======
+    width: 19vmin;
+    height: 8vmin;
+>>>>>>> pr/2
     font-size: 24px;
     line-height: 34px;
     color: #FFFFFf;
@@ -124,6 +153,7 @@ a {
 
 a:hover {
     font-weight: bold;
+<<<<<<< HEAD
 }
 
 .features {
@@ -326,6 +356,11 @@ footer p {
     text-align: center;
     color: #FFFFFF;
 }
+=======
+}
+
+
+>>>>>>> pr/2
 /*Mobile Responsiveness*/
 @media(max-width:1400px) {
     nav {
@@ -353,6 +388,7 @@ footer p {
         line-height: 34px;
         color: #FFFFFF;
         padding-left: 34px;
+<<<<<<< HEAD
     }
 
     .features {
@@ -579,6 +615,19 @@ input {
         height: auto;
         padding-top: 10px;
         background: #FFFFFf;
+=======
+    }
+
+    
+input {
+    margin-bottom: 20px;
+    width: 60vmin;
+    height: 7vmin;
+}
+    .login h2{
+        font-size: 5vmin;
+        padding: 5px;
+>>>>>>> pr/2
     }
 
     .team_header {
